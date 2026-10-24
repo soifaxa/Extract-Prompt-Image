@@ -8,6 +8,10 @@ Native macOS app that extracts **AI generation prompts** from image metadata.
 
 Drop a PNG (or JPEG / WebP / …) produced by Stable Diffusion, ComfyUI, NovelAI, or similar tools, and recover the positive prompt, negative prompt, and generation parameters.
 
+<p align="center">
+  <img src="Resources/screenshot.png" width="900" alt="Extract Prompt Image screenshot">
+</p>
+
 ## Features
 
 - Drag & drop or open **PNG, JPEG, WebP, TIFF, HEIC, GIF**
